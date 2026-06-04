@@ -36,7 +36,7 @@ src/
 └── main.jsx                 # React DOM injection point
 
 
-
+```
 ---
 
 ## 📐 Mathematical Formulation
