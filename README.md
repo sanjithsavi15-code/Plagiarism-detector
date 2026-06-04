@@ -1,4 +1,4 @@
-```python
+
 
 
 ## 🚀 Key Features
@@ -20,11 +20,7 @@
 
 ### Project Directory Structure
 
-```
 
-```text
-
-```text
 src/
 ├── algorithms/
 │   └── lcs.js               # Core DP logic & matrix backtracking engine
@@ -39,7 +35,7 @@ src/
 ├── index.css                # Tailwind directives and global print rules
 └── main.jsx                 # React DOM injection point
 
-```
+
 
 ---
 
