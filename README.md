@@ -20,7 +20,7 @@
 
 ### Project Directory Structure
 
-
+```
 src/
 ├── algorithms/
 │   └── lcs.js               # Core DP logic & matrix backtracking engine
