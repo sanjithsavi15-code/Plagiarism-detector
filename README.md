@@ -1,13 +1,5 @@
 ```python
-import os
 
-readme_content = """# 📝 Academic Plagiarism Detector
-
-An interactive, web-based implementation of the **Longest Common Subsequence (LCS)** algorithm designed to detect academic dishonesty. This application leverages **Dynamic Programming (DP)** to identify, calculate, and visually map matching text sequences between a student's submission and a reference source document.
-
-Developed as a **Design and Analysis of Algorithms (DAA)** mini-project.
-
----
 
 ## 🚀 Key Features
 
@@ -31,7 +23,6 @@ Developed as a **Design and Analysis of Algorithms (DAA)** mini-project.
 ```
 
 ```text
-README.md generated successfully.
 
 ```text
 src/
